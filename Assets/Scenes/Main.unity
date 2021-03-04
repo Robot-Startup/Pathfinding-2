@@ -26,7 +26,7 @@ RenderSettings:
   m_AmbientIntensity: 2
   m_AmbientMode: 3
   m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
-  m_SkyboxMaterial: {fileID: 2100000, guid: 6ac6a42d47f4d7249a11b33a16560f7d, type: 2}
+  m_SkyboxMaterial: {fileID: 0}
   m_HaloStrength: 0.5
   m_FlareStrength: 1
   m_FlareFadeSpeed: 3
@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.17824757, g: 0.13108832, b: 0.31348634, a: 1}
+  m_IndirectSpecularColor: {r: 0, g: 0, b: 0, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -205,8 +205,8 @@ MonoBehaviour:
   currentMode: 0
   modeSwitch: 113
   modeText: {fileID: 1846713079}
-  placementMode: {r: 1, g: 1, b: 1, a: 1}
-  movementMode: {r: 0.80139136, g: 0.5424528, b: 1, a: 1}
+  placementMode: {r: 0.76862746, g: 0.8039216, b: 0.827451, a: 1}
+  movementMode: {r: 0.29803923, g: 0.7647059, b: 0.73333335, a: 1}
   x: 10
   y: 5
   z: 10
@@ -580,7 +580,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 1
-  m_BackGroundColor: {r: 0, g: 0, b: 0, a: 1}
+  m_BackGroundColor: {r: 0.1254902, g: 0.24313726, b: 0.3254902, a: 1}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
