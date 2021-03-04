@@ -1,4 +1,5 @@
-﻿using System.Collections;
+//Using basic three in addition to UnityEngine.UI which allows for user input
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
