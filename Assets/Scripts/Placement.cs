@@ -1,4 +1,5 @@
-﻿using System.Collections;
+//Uses basic three in addition to System which allows for more fundamental classes and base classes
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using System;
